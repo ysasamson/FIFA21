@@ -14,8 +14,6 @@ This project used a dataset from Kaggle.
 ## Technology
 Language: Python
 
-Libraries used: numpy, pandas
-
 ## Data Cleaning
 ### Step 1. Convert the height and weight columns to numerical forms
 Checked format of height and weight
